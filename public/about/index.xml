@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Abouts on Michael Maldonado</title>
+    <link>https://www.michaelmaldonado.tech/about/</link>
+    <description>Recent content in Abouts on Michael Maldonado</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 03 Jun 2021 16:25:12 -0500</lastBuildDate><atom:link href="https://www.michaelmaldonado.tech/about/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About</title>
+      <link>https://www.michaelmaldonado.tech/about/about/</link>
+      <pubDate>Thu, 03 Jun 2021 16:25:12 -0500</pubDate>
+      
+      <guid>https://www.michaelmaldonado.tech/about/about/</guid>
+      <description>This is a test about me page. I am a {REDACTED} working for {REDACTED}. My favorite foods are {REDACTED}.</description>
+    </item>
+    
+  </channel>
+</rss>
