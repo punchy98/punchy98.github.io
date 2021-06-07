@@ -1,7 +1,7 @@
 ---
 title: "Contact"
 date: 2021-06-07T13:22:32-05:00
-draft: false
+
 ---
 
 * Email: [michael@maldonado.tech](mailto:michael@maldonado.tech)
